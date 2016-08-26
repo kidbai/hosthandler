@@ -1,0 +1,17 @@
+{
+  "name": "hosthandler",
+  "version": "1.1.0",
+  "description": "hosthandler: 可修改和添加host。如果host已经存在，会注释以往旧的host；如果host不存在，会新增host",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "youngbye",
+  "license": "ISC",
+  "devDependencies": {
+    "eventproxy": "^0.3.5"
+  },
+  "dependencies": {
+    "eventproxy": "^0.3.5"
+  }
+}
