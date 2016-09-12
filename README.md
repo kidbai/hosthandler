@@ -1,8 +1,16 @@
-hosthandler: 可修改和添加host。如果host已经存在，会注释以往旧的host；如果host不存在，会新增host
+Hosthandler can update a old host and add a new host.
 
-## 使用方法
+## Base info
+
+If the host exist, Hosthander will comment the exist host. If the host not exist, a new host will be create.
+
+## Usage
 
     var host_handler = require('hosthandler');
     host_handler.update('127.0.0.1', 'wwww.iamhosthandler.com');
 
-**记得sudo node app.js** 
+## ATTENTION
+
+Hosthandler can not update the host file if permission not allow.
+
+**sudo node app.js**
