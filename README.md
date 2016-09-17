@@ -14,3 +14,7 @@ If the host exist, Hosthander will comment the exist host. If the host not exist
 Hosthandler can not update the host file if permission not allow.
 
 **sudo node app.js**
+
+## LICENSE
+
+MIT

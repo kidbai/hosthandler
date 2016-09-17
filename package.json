@@ -1,6 +1,6 @@
 {
   "name": "hosthandler",
-  "version": "1.1.8",
+  "version": "1.2.0",
   "description": "Hosthandler can cover a old host and add a new host.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,6 @@
     "url": "https://github.com/kidbai/hosthandler.git"
   },
   "author": "youngbye <ybooty0@gmail.com>",
-  "license": "ISC",
   "devDependencies": {
     "eventproxy": "^0.3.5"
   },
