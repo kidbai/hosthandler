@@ -1,7 +1,7 @@
 {
   "name": "hosthandler",
-  "version": "1.1.2",
-  "description": "hosthandler: 可修改和添加host。如果host已经存在，会注释以往旧的host；如果host不存在，会新增host",
+  "version": "1.1.6",
+  "description": "Hosthandler can cover a old host and add a new host.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
