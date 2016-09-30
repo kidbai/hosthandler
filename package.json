@@ -13,9 +13,7 @@
   },
   "author": "youngbye <ybooty0@gmail.com>",
   "devDependencies": {
-    "eventproxy": "^0.3.5"
-  },
-  "dependencies": {
-    "eventproxy": "^0.3.5"
+    "eventproxy": "^0.3.5",
+    "isipright": "^1.0.3"
   }
 }
