@@ -1,6 +1,6 @@
 {
-  "name": "@xunlei/hosthandler",
-  "version": "1.2.1",
+  "name": "hosthandler",
+  "version": "1.2.2",
   "description": "Hosthandler can cover a old host and add a new host.",
   "main": "index.js",
   "scripts": {
