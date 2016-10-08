@@ -1,6 +1,6 @@
 {
-  "name": "hosthandler",
-  "version": "1.2.0",
+  "name": "@xunlei/hosthandler",
+  "version": "1.2.1",
   "description": "Hosthandler can cover a old host and add a new host.",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "author": "youngbye <ybooty0@gmail.com>",
   "devDependencies": {
     "eventproxy": "^0.3.5",
-    "isipright": "^1.0.3"
+    "isipright": "^1.0.8"
   }
 }
